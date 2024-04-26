@@ -7,7 +7,7 @@ class MainPaciente {
         String a, b;
         int c;
         Paciente x = new Paciente();
-        System.out.println("tu nombre es ");
+        System.out.println("cual es tu nombre");
         a = op.next();
         x.nombre = a;
         System.out.println("cual es tu apellido");

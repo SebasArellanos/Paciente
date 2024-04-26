@@ -3,7 +3,7 @@ class Paciente {
     int nss;
 
     public void mostrarNombre() {
-        System.out.println("Minombre es: " + this.nombre);
+        System.out.println("Mi nombre es: " + this.nombre);
     }
 
     public void mostrarApellido() {
