@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class MainPersona {
+class MainPaciente {
 
     public static void main(String[] args) {
         Scanner op = new Scanner(System.in);
